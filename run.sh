@@ -1,0 +1,1 @@
+mvn compiler:compile resources:resources compile jetty:run -Djetty.port=8090
